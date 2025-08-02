@@ -18,7 +18,7 @@ Ski Medical is a full-stack web application built using the MERN (MongoDB, Expre
 | ------------- | ---------- | -------- | ------------ |
 | React.js      | Node.js    | MongoDB  | Git + GitHub |
 | React Router  | Express.js | Mongoose | Postman      |
-| Bootstrap/CSS | JWT Auth   | Dotenv   | VS Code      |
+| Tailwind /CSS | JWT Auth   | Dotenv   | VS Code      |
 
 
 🚀 Getting Started
