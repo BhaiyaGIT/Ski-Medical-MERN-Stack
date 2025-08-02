@@ -32,14 +32,14 @@ cd Ski-Medical-MERN-Stack
 bash
 cd backend
 npm install
-npm run dev
+npm run server
 
 
 🌐 Frontend Setup
 bash
 cd frontend
 npm install
-npm start
+npm run dev
 
 
 Make sure to add a .env file in the backend directory with the following:
